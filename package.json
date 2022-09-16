@@ -1,0 +1,23 @@
+{
+  "name": "dreadnought-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Promit-revar/Dreadnought-Dashboard.git"
+  },
+  "author": "Promit Revar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Promit-revar/Dreadnought-Dashboard/issues"
+  },
+  "homepage": "https://github.com/Promit-revar/Dreadnought-Dashboard#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
