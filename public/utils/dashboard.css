@@ -77,3 +77,6 @@ a:hover{
 a[aria-expanded='false'] > .expand_caret {
     transform: scale(1.6) rotate(-90deg) ;
 }
+.main{
+    min-height: calc(100vh - 40px)
+}
