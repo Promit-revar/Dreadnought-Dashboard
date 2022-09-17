@@ -1,4 +1,11 @@
 # Dreadnought-Dashboard
+### Tech Stack Used:
+- Node Js
+- Html
+- Css
+- Javascript
+- Bootstrap 
+- Angular Js
 ### Getting started
 - Clone The repo
 ```
